@@ -5,11 +5,6 @@ I'm <strong>Ali</strong>, a programmer passionate about productivity hacks. in 2
  
 </p>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliazimoshan&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazimoshan&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
 <p align="left">
   👨‍💻 <strong>Skills:</strong> Flutter, Dart, JavaScript, NodeJs, ExpressJs, HTML, CSS, Bootstrap, Tailwind, Java.
 </p>
@@ -18,11 +13,7 @@ I'm <strong>Ali</strong>, a programmer passionate about productivity hacks. in 2
   💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Xcode and Git.
 </p>
 
-Email:
-- a.azimoshan@gmail.com
-
-Website:
-- https://aliazimoshan.ir
-
-
-
+<div align="left">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=aliazimoshan&count_private=true&theme=cobalt&show_icons=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazimoshan&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
