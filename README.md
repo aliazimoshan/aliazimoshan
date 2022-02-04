@@ -2,8 +2,8 @@
 
 <p align="left"> 
 I'm <strong>Ali</strong>, I’ve spent the past 3+ years working across various areas of software development, mobile development, front-end/back-end.
-besides, I am well known for reliability and punctuality in national and international.
-I am passionate about everything related to coding. Nowadays I'm interested in mobile development <strong>(Flutter and dart)</strong>, backend development <strong>(node.js)</strong>, frontend development <strong>(React, tailwind)</strong>.
+besides, I am well known for reliability and punctuality in national and international.<br>
+I am passionate about everything related to coding. Nowadays I'm interested in mobile development <strong>(Flutter and dart)</strong>, backend development <strong>(node.js)</strong>, frontend development <strong>(React, tailwind)</strong>.<br>
 When I'm not chained to my laptop, you'll find me in Gym, Cafe, or walking in the park.
  
 </p>
@@ -17,6 +17,6 @@ When I'm not chained to my laptop, you'll find me in Gym, Cafe, or walking in th
 </p>
 
 <div class="row">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=aliazimoshan&count_private=true&theme=cobalt&show_icons=true"/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazimoshan&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliazimoshan&count_private=true&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazimoshan&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
