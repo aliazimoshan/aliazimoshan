@@ -16,7 +16,3 @@ When I'm not chained to my laptop, you'll find me in Gym, Cafe, or walking in th
   💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Xcode and Git.
 </p>
 
-<div class="row">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliazimoshan&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazimoshan&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
